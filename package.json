@@ -4,5 +4,8 @@
   "main": "index.js",
   "author": "Ankit Jain <ankit.b09@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
 }
